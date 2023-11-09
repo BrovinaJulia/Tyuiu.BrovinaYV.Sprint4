@@ -53,7 +53,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinaYV.Sprint4.Tas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{FBA7AC57-7B40-4E04-B35F-746326636CAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinaYV.Sprint4.Task6.V15", "ConsoleApp1\Tyuiu.BrovinaYV.Sprint4.Task6.V15.csproj", "{D49D466E-D74B-4FAD-95BF-AA74953E63A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinaYV.Sprint4.Task6.V15", "Tyuiu.BrovinaYV.Sprint4.Task6.V15\Tyuiu.BrovinaYV.Sprint4.Task6.V15.csproj", "{D49D466E-D74B-4FAD-95BF-AA74953E63A8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinaYV.Sprint4.Task6.V15.Lib", "Tyuiu.BrovinaYV.Sprint4.Task6.V15.Lib\Tyuiu.BrovinaYV.Sprint4.Task6.V15.Lib.csproj", "{9F0A1154-B3F1-4E62-A404-AF4E3C1835BD}"
 EndProject
